@@ -1,1 +1,1 @@
-# whatsapp-kick
+# kick-ass-30
