@@ -184,8 +184,9 @@ const help = (prefix) => {
 
 
 ✦ *𝗗𝗢𝗡𝗢*✔︎
-  
 
+  
+  ▋▰ ☛ ${prefix}simih on\off
   ▋▰ ☛ ${prefix}setprefix
   ▋▰ ☛ ${prefix}block
   ▋▰ ☛ ${prefix}bc
@@ -195,8 +196,10 @@ const help = (prefix) => {
 
 
 ✦ *𝗢𝗨𝗧𝗥𝗢𝗦*✔︎
-  
 
+
+  ▋▰ ☛ ${prefix}antiracismo
+  ▋▰ ☛ ${prefix}atris
   ▋▰ ☛ ${prefix}send
   ▋▰ ☛ ${prefix}wame
   ▋▰ ☛ ${prefix}virtex
